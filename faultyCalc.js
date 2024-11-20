@@ -32,7 +32,7 @@ let c = sum(4, 35);
 let d = sub(44, 35);
 let e = div(44, 35);
 let f = multip(44, 35);
-console.log("Sum : ",c)
-console.log("subtract : ",d)
-console.log("Division : ",e)
-console.log("Multipication : ",f)
+console.log("Sum + : ",c)
+console.log("subtract - : ",d)
+console.log("Division / : ",e)
+console.log("Multipication * : ",f)
