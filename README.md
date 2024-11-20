@@ -1,1 +1,1 @@
-# Javascript
+# Basics of Javascript
